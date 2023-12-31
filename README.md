@@ -1,1 +1,1 @@
-# CODSOFT
+Welcome to the repository for my internship tasks with Codsoft Technologies! Here, I'll be documenting and sharing the exciting projects and assignments I'm working on during my internship. Expect to find code, reports, and any supplementary materials related to the tasks assigned to me. I'm eager to showcase my progress and growth throughout this learning journey. Feel free to explore, provide feedback, or reach out for collaborations. Let's innovate and create together!
